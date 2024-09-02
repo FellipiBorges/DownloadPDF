@@ -39,6 +39,10 @@ Resultado do Excel após execução do código
 Resultado do Plotly
 ![Saida do Plotly](https://github.com/user-attachments/assets/10caa366-48f5-4670-90e3-0ed170ba08b7)
 
+Resultado da pasta com os arquivos baixados
+[image](https://github.com/user-attachments/assets/f1a83609-5097-4555-9f9e-8dacd62986b5)
+
+
 
 ## License
 
